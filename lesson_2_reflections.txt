@@ -22,6 +22,10 @@ it is easier to find which commits are reachabile from the current branch and wh
 
 merging two branches together combines the code changes in both the branches. In the diagram, we represent it in such a way that the current master has two parents.
 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging ensures that no code change is missed. But there could be a conflict which has to anyways be manually resolved.
+
 
 
 
