@@ -14,4 +14,8 @@ We can add only those files that are logically connected to each other wrt any c
 
 Branches would be helpful to preserve the master as it is and try out some other new features in a seperate branch. Hence the working master is not affected.
 
+5.How do the diagrams help you visualize the branch structure?
+
+it is easier to find which commits are reachabile from the current branch and which are not.
+
 
