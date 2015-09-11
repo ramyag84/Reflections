@@ -18,4 +18,10 @@ Branches would be helpful to preserve the master as it is and try out some other
 
 it is easier to find which commits are reachabile from the current branch and which are not.
 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging two branches together combines the code changes in both the branches. In the diagram, we represent it in such a way that the current master has two parents.
+
+
+
 
