@@ -10,3 +10,9 @@ work.
 
 Just to ensure that it is certainly in sync.
 
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a glone directly from one github repository to another git hub repository. This is used if you want to use someone elses files, make changes to it and share them again, where it is necessary to keep track of the original repository from where we cloned it. 
+A clone is done from a github repository to a local computer. This is done if we want to copy someone's files and make changes to it. But we dont need to know from where we copied them.
+A branch is a non-linear extension of the master. This is juzt to add an extra feature without affecting the master file.
+
