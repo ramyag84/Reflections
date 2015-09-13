@@ -18,5 +18,9 @@ A branch is a non-linear extension of the master. This is juzt to add an extra f
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+it would be really harder to collaborate without using Git or GitHub as we might have to share the file to and fro in other means like ftp etc.
+
 
 
