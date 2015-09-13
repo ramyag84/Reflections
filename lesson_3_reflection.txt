@@ -16,3 +16,7 @@ A fork is a glone directly from one github repository to another git hub reposit
 A clone is done from a github repository to a local computer. This is done if we want to copy someone's files and make changes to it. But we dont need to know from where we copied them.
 A branch is a non-linear extension of the master. This is juzt to add an extra feature without affecting the master file.
 
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+
+
