@@ -1,3 +1,12 @@
-When would you want to use a remote repository rather than keeping all your work local?
-    I would prefewr using a remote directory if i want to share my files to others on a day to day basis . Or if i use 
-    different computers to continue with my work.
+1. When would you want to use a remote repository rather than keeping all your work local?
+    
+
+I would prefer using a remote directory if i want to share my files to others on a day to day basis . Or if i use 
+different computers to continue with my 
+work.
+
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Just to ensure that it is certainly in sync.
+
