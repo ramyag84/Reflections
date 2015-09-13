@@ -22,5 +22,8 @@ A branch is a non-linear extension of the master. This is juzt to add an extra f
 
 it would be really harder to collaborate without using Git or GitHub as we might have to share the file to and fro in other means like ftp etc.
 
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+to always have a working master which never breaks. 
 
 
